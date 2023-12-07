@@ -15,4 +15,4 @@ Test your memory skills 🟥🟨🟦🟩 ! Simon is an electronic game of short-
 5. Each color has its own unique sound!
 
 
-my record is 23!
+My record is 23!
