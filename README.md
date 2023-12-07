@@ -14,3 +14,6 @@ Test your memory skills 🟩🟥🟨🟦 ! Simon is an electronic game of short-
 6. Each color has its own unique sound! Try each of the buttons before starting the game to get familiar with their sounds.
 
 My record is 23!
+
+
+Try it here !!! @@@ -----> https://kevinyejoonlee.github.io/Simon-Game/
