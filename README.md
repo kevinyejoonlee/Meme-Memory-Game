@@ -1,9 +1,9 @@
-# Simon-Game
+#                                🟩🟥🟨🟦  Simon-Game  🟩🟥🟨🟦
 
 
 ![image](https://github.com/kevinyejoonlee/Simon-Game/assets/73869929/ed0f30f0-5cf6-4ebe-afc8-44b9a46a3e09)
 
-Test your memory skills 🟩🟥🟨🟦 ! Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison. 
+Test your memory skills! Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison. 
 
 <hr/>
 
