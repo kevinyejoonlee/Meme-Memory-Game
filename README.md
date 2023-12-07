@@ -1,4 +1,4 @@
-#                                🟩🟥🟨🟦  Simon-Game  🟩🟥🟨🟦
+<h1 text-align="center">🟩🟥🟨🟦  Simon-Game  🟩🟥🟨🟦 <h1/>
 
 
 ![image](https://github.com/kevinyejoonlee/Simon-Game/assets/73869929/ed0f30f0-5cf6-4ebe-afc8-44b9a46a3e09)
