@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #b9d4f1;
   -webkit-user-select: none; 
   -moz-user-select: none; 
   -ms-user-select: none; 
@@ -11,7 +11,7 @@ body {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
-  color: #FEF2BF;
+  color: #f94545;
 }
 
 .container {
@@ -30,25 +30,55 @@ body {
   border-radius: 20%;
 }
 
+img{
+background-size: auto;
+
+
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
 }
 
-.red {
-  background-color: red;
+
+
+.pew {
+
+  background-color: rgb(216,65,64);
+  background-image: url(./images/pew.png);
+  background-size: 190px 190px;
+  background-position: center center; 
+  background-repeat: no-repeat;
+
 }
 
-.green {
-  background-color: green;
+.brokenbone {
+  background-color:rgb(255,223,64);
+  background-image: url(./images/brokenbone.png);
+  background-size: 190px 190px;
+  background-position: center center; 
+  background-repeat: no-repeat;
+
 }
 
-.blue {
-  background-color: blue;
+.lego {
+  background-color:rgb(47,138,229);
+  background-image: url(./images/lego.png);
+  background-size: 190px 190px;
+  background-position: center center; 
+  background-repeat: no-repeat;
+
+
 }
 
-.yellow {
-  background-color: yellow;
+.minecraft {
+
+  background-color:rgb(61,153,92);
+  background-image: url(./images/minecraft.png);
+  background-size: 190px 190px;
+  background-position: center center; 
+  background-repeat: no-repeat;
 }
 
 .pressed {

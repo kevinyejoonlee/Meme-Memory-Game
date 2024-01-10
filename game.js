@@ -1,18 +1,15 @@
 var gamePattern = [];
 var userClickedPattern = [];
-var buttonColors = ["red", "blue", "green", "yellow"];
+var buttonColors = ["pew", "lego", "brokenbone", "minecraft"];
 var level = 0;
 var started = false;
 
 $(document).keydown(function() {
-
     if (!started){
         nextSequence();
         started = true;
         $("#level-title").text("Level " + level);
     }
-    
-
 });
 
 function checkAnswer(currentLevel){
