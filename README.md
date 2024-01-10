@@ -2,8 +2,7 @@
 
 ![image](https://github.com/kevinyejoonlee/Simon-Game/assets/73869929/0ac31a6a-aa17-4397-8d42-932e760d06f1)
 
-Test your memory skills 🟩🟥🟨🟦 ! Meme memory is based on Simon. An electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison. 
-
+Test your memory skills 🟩🟥🟨🟦 ! Simon says is a game that we all grew up playing. This is based on that game. Simon will play a series of memes and you must follow him 🕺.
 <hr/>
 
 ## How to play
