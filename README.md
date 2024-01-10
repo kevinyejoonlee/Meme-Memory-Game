@@ -1,4 +1,4 @@
-# Meme-Memory-Game 🕹👾
+# Meme-Memory-Game 🕹👾 LINK TO TRY IT BELOW
 
 ![image](https://github.com/kevinyejoonlee/Simon-Game/assets/73869929/0ac31a6a-aa17-4397-8d42-932e760d06f1)
 
