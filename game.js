@@ -47,15 +47,10 @@ $(".btn").click(function (e){
     if (started){
     userClickedPattern.push(userChosenColour);
     var indexOfLastUserClicked = userClickedPattern.length - 1;
-    checkAnswer(indexOfLastUserClicked);}
-        
-
-   
-    
+    checkAnswer(indexOfLastUserClicked);} 
 })
 
 function nextSequence(){
-   
     level++;
     $("#level-title").text("Level " + level);
     
@@ -68,7 +63,6 @@ function nextSequence(){
     playSound(randomChosenColor);
     animatePress(randomChosenColor);
 
-  
 } 
 
 
@@ -84,7 +78,6 @@ function animatePress(currentColor){
     setTimeout(function (){
         $(".btn."+ currentColor).removeClass("pressed");
     }, 100);
-    
 }
 
 
